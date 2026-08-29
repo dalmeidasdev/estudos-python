@@ -5,7 +5,7 @@ msg = input('Digite algo: ')
 
 print(type(msg))
 print('É alphanumérico?:', msg.isalnum())
-print('É uma string?:', msg.isalpha())
+print('Todos são alfabéticos?:', msg.isalpha())
 print('É um número?:', msg.isnumeric())
 print('É decimal?:', msg.isdecimal())
 print('É um dígito?:', msg.isdigit())
