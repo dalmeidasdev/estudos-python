@@ -1,5 +1,5 @@
 # Converter reais em dolar
-# Link do vídeo: 
+# Link do vídeo: https://youtu.be/xM4AX3Lp2mo?si=7bx27oT3h4VjhJdj
 
 vr = float(input('Quantos reais você tem?: '))
 vd = vr / 5.19
