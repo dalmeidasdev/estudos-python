@@ -1,5 +1,5 @@
 # Analisador de texto
-# Link do vídeo:
+# Link do vídeo: https://youtu.be/EQQt-6QqXOs?si=33XWRRWUAKGuB5g6
 
 nome = input('Qual seu nome completo?: ')
 
