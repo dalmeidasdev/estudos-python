@@ -1,5 +1,5 @@
 # Custo da viagem
-# Link do vídeo: 
+# Link do vídeo: https://youtu.be/PGqHyzWoagc?si=PTmnZhaHrmHBFtuG
 
 d = float(input('Digite a distância da viagem em km: '))
 
