@@ -1,5 +1,5 @@
 # Aprovando empréstimos
-# Link do vídeo:
+# Link do vídeo: https://youtu.be/IV13X0QOMU8?si=krFJvr37AljelBSB
 
 vcasa = float(input('Digite o valor da casa: '))
 salario = float(input('Digite o seu salário: '))
